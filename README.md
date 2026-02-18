@@ -133,7 +133,7 @@ Each dashboard includes:
 
 If you’re a founder or team looking for **contract-based analytics support**, feel free to reach out.
 
-**GitHub:** (this repository)  
+**GitHub:** (https://github.com/sathvikshet/analytics_portfolio)  
 **LinkedIn:** (add link)
 
 ---
