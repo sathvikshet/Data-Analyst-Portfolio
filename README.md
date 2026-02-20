@@ -11,7 +11,6 @@ This portfolio showcases **end-to-end analytics work** covering:
 
 My work mirrors **real startup and SaaS analytics**, where analysts answer business questions using production databases and dashboards — not just toy datasets.
 
----
 
 ## 🧠 Core Skills
 
