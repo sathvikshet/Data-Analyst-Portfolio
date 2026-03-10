@@ -124,8 +124,11 @@ Detailed assumptions and table structure are documented in
 This project is designed for:
 
 • Data Analyst
+
 • Product / Business Analyst
+
 • SQL-focused analytics roles
+
 • Startup and SaaS analytics teams
 
 The emphasis is on **clear thinking, business understanding, and readable SQL** rather than just complex queries.
