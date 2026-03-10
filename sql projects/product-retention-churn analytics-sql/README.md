@@ -145,10 +145,13 @@ Detailed assumptions and table structure are documented in
 
 This project is designed for:
 
-* **Junior / Early-Mid Product Analyst**
-* **Junior Data Analyst (Product / Growth)**
-* **Remote / Foreign Contract Roles**
-* SaaS and product-focused analytics positions
+• Data Analyst
+
+• Product Analyst
+
+• Growth / Business Analyst
+
+• SaaS and product analytics teams
 
 The emphasis is on **business understanding, clarity, and decision support**, not just SQL complexity.
 
@@ -157,8 +160,7 @@ The emphasis is on **business understanding, clarity, and decision support**, no
 ## 🔹 Author
 
 **Sathvik**
-Aspiring Product / Data Analyst
-Focused on remote, contract-based analytics roles
+Aspiring Product / Data Analyst specializing in product analytics, SQL-based analysis, and data-driven decision making.
 
 ---
 
