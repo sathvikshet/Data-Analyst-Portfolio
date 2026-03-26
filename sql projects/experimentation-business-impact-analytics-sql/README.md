@@ -131,11 +131,15 @@ Detailed assumptions and table structure are documented in
 
 This project is designed for:
 
-* **Junior / Early-Mid Product Analyst**
-* **Growth Analyst**
-* **Experimentation / A/B Testing Analyst**
-* **Remote / Foreign Contract Roles**
-* SaaS & product-driven analytics teams
+• Data Analyst  
+
+• Product Analyst
+
+• Growth Analyst
+
+• Experimentation / A/B Testing Analyst 
+
+• Startup and SaaS analytics teams
 
 The emphasis is on **business impact**, not just statistical metrics.
 
@@ -144,8 +148,7 @@ The emphasis is on **business impact**, not just statistical metrics.
 ## 🔹 Author
 
 **Sathvik**
-Aspiring Product / Growth Data Analyst
-Focused on remote, contract-based analytics roles
+Aspiring Product / Growth Data Analyst specializing in experimentation analytics, SQL analysis, and data-driven decision making.
 
 ---
 
